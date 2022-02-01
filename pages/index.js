@@ -1,9 +1,13 @@
 import Head from "next/head";
 import Image from "next/image";
 import styles from "../styles/Home.module.css";
+import redirect from "nextjs-redirect"
+
+const Redirect = redirect("https://youtu.be/4v8ek9TEeOU?t=41")
 
 export default function Home() {
   return (
+    <Redirect>
     <div className={styles.container}>
       <Head>
         <title>Dev Hour Podcast - Home</title>
@@ -22,5 +26,6 @@ export default function Home() {
         <h1>Dev Hour Podcast</h1>
       </div>
     </div>
+    </Redirect>
   );
 }
