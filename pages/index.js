@@ -27,7 +27,10 @@ export default function Home() {
           content="http://i3.ytimg.com/vi/7gEbHsHXdn0/hqdefault.jpg"
           property="og:image"
         />
-        <meta name="twitter:card" content="summary_large_image" />
+        <meta
+          name="twitter:card"
+          content="http://i3.ytimg.com/vi/7gEbHsHXdn0/hqdefault.jpg"
+        />
       </Head>
 
       <div>
