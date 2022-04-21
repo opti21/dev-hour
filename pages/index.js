@@ -24,7 +24,7 @@ export default function Home() {
         <meta content="Dev Hour Podcast" property="og:site_name" />
 
         <meta
-          content="https://cdn.discordapp.com/attachments/806262681920602143/937883694788657222/Dev_hour.jpg"
+          content="http://i3.ytimg.com/vi/7gEbHsHXdn0/hqdefault.jpg"
           property="og:image"
         />
         <meta name="twitter:card" content="summary_large_image" />
@@ -33,6 +33,7 @@ export default function Home() {
       <div>
         <h1>Dev Hour Podcast</h1>
         <h1>DEVHOUR</h1>
+        <h1>FIRST EPISODE!!!</h1>
         <ReactPlayer url="https://www.youtube.com/watch?v=7gEbHsHXdn0" />
         <Image
           src={"https://c.tenor.com/E3BS4gXTT6AAAAAC/deez-nuts.gif"}
