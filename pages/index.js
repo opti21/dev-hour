@@ -24,13 +24,13 @@ export default function Home() {
         <meta content="Dev Hour Podcast" property="og:site_name" />
 
         <meta
-          content="http://i3.ytimg.com/vi/7gEbHsHXdn0/hqdefault.jpg"
+          content="https://img.youtube.com/vi/pvBHyip4peo/sddefault.jpg"
           property="og:image"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:image"
-          content="http://i3.ytimg.com/vi/7gEbHsHXdn0/hqdefault.jpg"
+          content="https://img.youtube.com/vi/pvBHyip4peo/sddefault.jpg"
         />
       </Head>
 
@@ -44,7 +44,7 @@ export default function Home() {
             <u>t3.gg</u>
           </a>
         </h2>
-        <ReactPlayer url="https://www.youtube.com/watch?v=7gEbHsHXdn0" />
+        <ReactPlayer url="https://www.youtube.com/watch?v=pvBHyip4peo" />
         <Image
           src={"https://c.tenor.com/E3BS4gXTT6AAAAAC/deez-nuts.gif"}
           alt="DEEZ NUTS"
