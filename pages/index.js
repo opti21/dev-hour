@@ -36,14 +36,6 @@ export default function Home() {
 
       <div>
         <h1>Dev Hour Podcast</h1>
-        <h1>DEVHOUR</h1>
-        <h1>FIRST EPISODE!!!</h1>
-        <h2>
-          Website Approved by{" "}
-          <a href="https://t3.gg">
-            <u>t3.gg</u>
-          </a>
-        </h2>
         <ReactPlayer
           url="https://www.youtube.com/watch?v=6Ab6ka_MKJ4"
           controls={true}
