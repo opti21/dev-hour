@@ -44,7 +44,18 @@ export default function Home() {
             <u>t3.gg</u>
           </a>
         </h2>
-        <ReactPlayer url="https://www.youtube.com/watch?v=pvBHyip4peo" />
+        <ReactPlayer
+          url="https://www.youtube.com/watch?v=6Ab6ka_MKJ4"
+          controls={true}
+        />
+        <ReactPlayer
+          url="https://www.youtube.com/watch?v=pvBHyip4peo"
+          controls={true}
+        />
+        <ReactPlayer
+          url="https://www.youtube.com/watch?v=pvBHyip4peo"
+          controls={true}
+        />
         <Image
           src={"https://c.tenor.com/E3BS4gXTT6AAAAAC/deez-nuts.gif"}
           alt="DEEZ NUTS"
