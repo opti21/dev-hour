@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>DevHour Podcast</title> <link>https://devhour.live/</link>
+<language>en-us</language>
+<copyright>© 2022 ThePrimeagen</copyright>
+<itunes:author>ThePrimeagen</itunes:author>
+<description> DevHour Deez very informative episodes from top creators in the developer space.
+</description>
+<itunes:type>serial</itunes:type>
+<itunes:owner> <itunes:name>ThePrimeagen</itunes:name>
+<itunes:email>the.primeagen@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:image
+href="https://devhour.live/podcast/devhourlogo.png"
+/>
+<itunes:category text="Technology"> </itunes:category>
+<itunes:explicit>true</itunes:explicit>
+<item>
+    <itunes:title>
+    You only Git Merge?!? feat Theo
+    </itunes:title>
+    <description>
+    </description>
+    <enclosure
+    length="10276558"
+    type="audio/mpeg"
+    url="https://devhour.live/podcast/dv1_t_rebase.mp3"
+    />
+    <pubDate>Wed, 20 Apr 2022 01:15:00 GMT</pubDate>
+    <itunes:duration>658</itunes:duration>
+    <itunes:explicit>true</itunes:explicit>
+</item>
+<item>
+    <itunes:title>
+    YOU DONT UNIT TEST??? - Theo
+    </itunes:title>
+    <description>
+    </description>
+    <enclosure
+    length="43789774"
+    type="audio/mpeg"
+    url="https://devhour.live/podcast/dv1_unit_test.mp3"
+    />
+    <pubDate>Mon, 25 Apr 2022 01:15:00 GMT</pubDate>
+    <itunes:duration>2807</itunes:duration>
+    <itunes:explicit>true</itunes:explicit>
+</item>
+<item>
+    <itunes:title>
+    Ken Wheeler - Modern JavaScript, Beats, Rick Rolling
+    </itunes:title>
+    <description>
+    </description>
+    <enclosure
+    length="85531342"
+    type="audio/mpeg"
+    url="https://devhour.live/podcast/dv2_kw.mp3"
+    />
+    <pubDate>Fri, 20 May 2022 01:15:00 GMT</pubDate>
+    <itunes:duration>2807</itunes:duration>
+    <itunes:explicit>true</itunes:explicit>
+</item>
+<item>
+    <itunes:title>
+    Ryan Carniato - Creator of Solid JS
+    </itunes:title>
+    <description>
+    </description>
+    <enclosure
+    length="73767118"
+    type="audio/mpeg"
+    url="https://devhour.live/podcast/dv3_rc.mp3"
+    />
+    <pubDate>Fri, 03 Jun 2022 01:15:00 GMT</pubDate>
+    <itunes:duration>4728</itunes:duration>
+    <itunes:explicit>true</itunes:explicit>
+</item>
+</channel>
+</rss>
