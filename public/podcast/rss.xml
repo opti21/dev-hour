@@ -12,14 +12,14 @@
 <itunes:email>the.primeagen@gmail.com</itunes:email>
 </itunes:owner>
 <itunes:image
-href="https://devhour.live/podcast/devhourlogo.png"
+href="https://devhour.live/podcast/devhourlogo.jpg"
 />
 <itunes:category text="Technology"> </itunes:category>
 <itunes:explicit>true</itunes:explicit>
 <item>
-    <itunes:title>
+    <title>
     You only Git Merge?!? feat Theo
-    </itunes:title>
+    </title>
     <description>
     </description>
     <enclosure
@@ -32,9 +32,9 @@ href="https://devhour.live/podcast/devhourlogo.png"
     <itunes:explicit>true</itunes:explicit>
 </item>
 <item>
-    <itunes:title>
+    <title>
     YOU DONT UNIT TEST??? - Theo
-    </itunes:title>
+    </title>
     <description>
     </description>
     <enclosure
@@ -47,9 +47,9 @@ href="https://devhour.live/podcast/devhourlogo.png"
     <itunes:explicit>true</itunes:explicit>
 </item>
 <item>
-    <itunes:title>
+    <title>
     Ken Wheeler - Modern JavaScript, Beats, Rick Rolling
-    </itunes:title>
+    </title>
     <description>
     </description>
     <enclosure
@@ -62,9 +62,9 @@ href="https://devhour.live/podcast/devhourlogo.png"
     <itunes:explicit>true</itunes:explicit>
 </item>
 <item>
-    <itunes:title>
+    <title>
     Ryan Carniato - Creator of Solid JS
-    </itunes:title>
+    </title>
     <description>
     </description>
     <enclosure
