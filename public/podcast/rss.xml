@@ -24,9 +24,7 @@ href="https://devhour.live/podcast/devhourlogo.jpg"
     <description>
     </description>
     <link>https://devhour.live/podcast/dv1_t_rebase.mp3</link>
-    <image
-     href="https://devhour.live/podcast/images/dev1.png"
-    />
+    <itunes:image>https://devhour.live/podcast/images/dev1.png</itunes:image>
     <enclosure
     length="10276558"
     type="audio/mpeg"
@@ -43,9 +41,7 @@ href="https://devhour.live/podcast/devhourlogo.jpg"
     <description>
     </description>
     <link>https://devhour.live/podcast/dv1_unit_test.mp3</link>
-    <image
-     href="https://devhour.live/podcast/images/dev1-pt2.png"
-    />
+    <itunes:image>https://devhour.live/podcast/images/dev1-pt2.png</itunes:image>
     <enclosure
     length="43789774"
     type="audio/mpeg"
@@ -62,9 +58,7 @@ href="https://devhour.live/podcast/devhourlogo.jpg"
     <description>
     </description>
     <link>https://devhour.live/podcast/dv2_kw.mp3</link>
-    <image
-     href="https://devhour.live/podcast/images/dev2.png"
-    />
+    <itunes:image>https://devhour.live/podcast/images/dev2.png</itunes:image>
     <enclosure
     length="85531342"
     type="audio/mpeg"
@@ -81,9 +75,7 @@ href="https://devhour.live/podcast/devhourlogo.jpg"
     <description>
     </description>
     <link>https://devhour.live/podcast/dv3_rc.mp3</link>
-    <image
-     href="https://devhour.live/podcast/images/dev3.png"
-    />
+    <itunes:image>https://devhour.live/podcast/images/dev3.png</itunes:image>
     <enclosure
     length="73767118"
     type="audio/mpeg"
