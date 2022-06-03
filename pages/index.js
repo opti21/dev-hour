@@ -44,6 +44,10 @@ export default function Home() {
           height={300}
         />
         <ReactPlayer
+          url="https://www.youtube.com/watch?v=O4sgwuMQns0"
+          controls={true}
+        />
+        <ReactPlayer
           url="https://www.youtube.com/watch?v=6Ab6ka_MKJ4"
           controls={true}
         />
@@ -52,7 +56,7 @@ export default function Home() {
           controls={true}
         />
         <ReactPlayer
-          url="https://www.youtube.com/watch?v=pvBHyip4peo"
+          url="https://www.youtube.com/watch?v=7gEbHsHXdn0"
           controls={true}
         />
       </div>
