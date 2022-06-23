@@ -85,5 +85,21 @@ href="https://devhour.live/podcast/devhourlogo.jpg"
     <itunes:duration>4728</itunes:duration>
     <itunes:explicit>true</itunes:explicit>
 </item>
+<item>
+    <title>
+    Jon Gjengset | All Things Rust | Rust For Rustaceans
+    </title>
+    <description>
+    </description>
+    <link>https://devhour.live/podcast/dv4_jh.mp3</link>
+    <enclosure
+    length="80795300"
+    type="audio/mpeg"
+    url="https://devhour.live/podcast/dv4_jh.mp3"
+    />
+    <pubDate>Thu, 23 Jun 2022 17:00:00 GMT</pubDate>
+    <itunes:duration>3664</itunes:duration>
+    <itunes:explicit>true</itunes:explicit>
+</item>
 </channel>
 </rss>
