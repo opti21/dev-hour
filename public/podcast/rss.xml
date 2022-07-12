@@ -101,5 +101,21 @@ href="https://devhour.live/podcast/devhourlogo.jpg"
     <itunes:duration>3664</itunes:duration>
     <itunes:explicit>true</itunes:explicit>
 </item>
+<item>
+    <title>
+    Madison Kanna - Based Engineer and Hot Takes
+    </title>
+    <description>
+    </description>
+    <link>https://devhour.live/podcast/dv5_mk.mp3</link>
+    <enclosure
+    length="51900416"
+    type="audio/mpeg"
+    url="https://devhour.live/podcast/dv4_jh.mp3"
+    />
+    <pubDate>Mon, 11 Jul 2022 11:30:00 CDT</pubDate>
+    <itunes:duration>3239</itunes:duration>
+    <itunes:explicit>true</itunes:explicit>
+</item>
 </channel>
 </rss>
